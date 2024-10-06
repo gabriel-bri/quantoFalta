@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Quanto falta?",
+  "description": "Extensão que mostra quanto você já concluiu do seu curso, verificando as pendências no portal SIGAA da UFC.",
+  "version": "1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action":{},
+  "permissions": ["activeTab", "scripting", "webNavigation"],
+  "host_permissions": [
+    "https://si3.ufc.br/"  // URL específica da extensão
+  ],
+  "icons": {
+   "16": "images/icon/ufc-logo-small.png",
+   "48": "images/icon/ufc-logo-medium.png",
+   "128": "images/icon/ufc-logo-big.png"
+  }
+}
