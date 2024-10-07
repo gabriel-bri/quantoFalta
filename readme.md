@@ -14,13 +14,10 @@
 
 ## Instalação
 
-1. Clone o repositório:
+1. Clone o repositório ou baixe o repositório diretamente clicando [aqui](https://github.com/gabriel-bri/quantoFalta/archive/refs/heads/main.zip):
    ```bash
    git clone https://github.com/seu-usuario/quanto-falta.git
    
-   
-ou baixe o repositório diretamente clicando aqui [aqui](https://github.com/gabriel-bri/quantoFalta/archive/refs/heads/main.zip).
-
 2. Agora, no Chrome, abra o menu do navegador, vá em **“Ferramentas”** e clique em **“Extensões”**
 
 ![Passo 2](images/passo_2.png)
