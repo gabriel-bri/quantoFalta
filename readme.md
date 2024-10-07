@@ -39,6 +39,14 @@ ou baixe o repositório diretamente clicando aqui [aqui](https://github.com/gabr
 
 ## Uso
 
-1. Com a extensão já instalada, basta apenas acessar o SI3 como aluno:
+1. Com a extensão já instalada, basta apenas **acessar o SI3 como aluno**:
     
 ![Tela de Login do SI3](images/passo_6.png)
+
+2. Após realizar o login, acesse o menu **Ensino**, logo apoós clique em **Consultas do Discente** e depois em **Pendências de Conclusão**
+
+![Acesso a funcionalidade](images/passo_7.png)
+
+3. Pronto, agora você verá uma barra de progresso de quanto você já concluiu do curso.
+
+![Barra de progresso](images/passo_8.jpg)
