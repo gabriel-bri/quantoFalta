@@ -13,7 +13,7 @@ function getCargaHorariaObrigatoria() {
   // Verifica se a frase "Consultar Pendências de Conclusão" está presente no HTML
   if (document.body.innerText.includes("Consultar Pendências de Conclusão")) {
     // Aqui vai o código que será executado na página ativa
-    const secaoCargaHorariaTotal = document.querySelectorAll('tr.title_irregular')[1];
+    const secaoCargaHorariaTotal = document.querySelectorAll('tr.title_irregular')[2];
 
     if (secaoCargaHorariaTotal.textContent.trim().includes("Carga Horária Total")) {
       // Seleciona o elemento da carga total exigida.
